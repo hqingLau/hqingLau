@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![85114855a42036d1bd8a9e7f9dcb8b49](https://user-images.githubusercontent.com/44922160/139567960-7116a932-96af-4f85-951a-8c6458c02aeb.gif)
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hqinglau&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right"  src="https://user-images.githubusercontent.com/44922160/139567960-7116a932-96af-4f85-951a-8c6458c02aeb.gif" alt="85114855a42036d1bd8a9e7f9dcb8b49" style="zoom:20%;" />
 
 - 🔭 我的博客：[orz linux](https://orzlinux.cn/)
 - 🤔 历史文章：
@@ -35,4 +33,6 @@ Here are some ideas to get you started:
   - [Java反射三四例](https://orzlinux.cn/blog/javareflect20210919.html)
   - [更多](https://orzlinux.cn/)
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=hqinglau&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
