@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right"  src="https://user-images.githubusercontent.com/44922160/139567960-7116a932-96af-4f85-951a-8c6458c02aeb.gif" alt="85114855a42036d1bd8a9e7f9dcb8b49" style="width:400" />
+<img align="right"  src="https://user-images.githubusercontent.com/44922160/139567960-7116a932-96af-4f85-951a-8c6458c02aeb.gif" alt="85114855a42036d1bd8a9e7f9dcb8b49" style="width:300px" />
 
 - 🔭 我的博客：[orz linux](https://orzlinux.cn/)
 - ✨ 历史文章：
