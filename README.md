@@ -34,7 +34,6 @@ Here are some ideas to get you started:
   - [Java反射三四例](https://orzlinux.cn/blog/javareflect20210919.html)
   - [更多](https://orzlinux.cn/)
 
-- 🤔 公众号：[![github](https://img.shields.io/badge/微信公众号-程序员hq-blue.svg)](https://gitee.com/hqinglau/img/raw/master/img/20211028215948.png)
 
 <img src="https://github-readme-stats.vercel.app/api?username=hqinglau&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
