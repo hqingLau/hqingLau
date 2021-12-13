@@ -1,8 +1,6 @@
 ## 欢迎访问我的github👋
 
-[![Awesome](https://awesome.re/badge.svg)](https://orzlinux.cn)
 [![github](https://img.shields.io/badge/博客-orzlinux.cn-brightgreen.svg)](https://orzlinux.cn)
-[![github](https://img.shields.io/badge/csdn-@hqinglau-orange.svg)](https://blog.csdn.net/qq_36704378?spm=1010.2135.3001.5343&type=blog)
 [![github](https://img.shields.io/badge/知乎-佛斯特布拉德-blue.svg)](https://www.zhihu.com/people/joy-35-53-81/posts)
 
 <!--
