@@ -1,7 +1,6 @@
 ## 欢迎访问我的github👋
 
 [![github](https://img.shields.io/badge/博客-orzlinux.cn-brightgreen.svg)](https://orzlinux.cn)
-[![github](https://img.shields.io/badge/知乎-佛斯特布拉德-blue.svg)](https://www.zhihu.com/people/joy-35-53-81/posts)
 
 <!--
 **hqingLau/hqinglau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
